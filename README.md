@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Licious (Clone)
+-----
+### For Meat Ordering Purpose*
+Project: Make a clone of Licious website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Original-Website: https://www.licious.in/
 
-## Available Scripts
+Cloned-Website: https://liciousclone.netlify.app/
 
-In the project directory, you can run:
+Licious is an online Meat ordering website . From here you will Get delicious fresh chicken, meats and Seafood quickly delivered. Licious offers 100% fresh & best quality Chicken, Fish/Prawns and Mutton products online.
 
-### `npm start`
+In this project I tried to manipulate React, styling using css and tried to make website more dynamic. With our efforts and the technology stack, that I have learned till now in Unit-4 in the masai school.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Technology Stack Used 🌟
+* HTML
+* CSS
+* JavaScript
+* React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+For storing user data we also used localStorage.
 
-### `npm test`
+# Snapshots 📷
+* Landing page (Home page)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Landing page (Home page)](https://github.com/kavish729/Licious-clone/blob/main/public/licioushomepage.PNG?raw=true)
 
-### `npm run build`
+* Products page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Products page](https://github.com/kavish729/Licious-clone/blob/main/public/liciousproduct.PNG?raw=true)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Cart page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Cart page](https://github.com/kavish729/Licious-clone/blob/main/public/cartlicious.PNG?raw=true)
 
-### `npm run eject`
+* Shipping page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Shipping page](https://github.com/kavish729/Licious-clone/blob/main/public/Shippinglicious.PNG?raw=true)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Payment Method page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Payment page](https://github.com/kavish729/Licious-clone/blob/main/public/Paymentlicious.PNG?raw=true)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Sign-up page
 
-## Learn More
+![Sign-up page](https://github.com/kavish729/Licious-clone/blob/main/public/Licioussignin.PNG?raw=true)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Sign-in page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Sign-in page](https://github.com/kavish729/Licious-clone/blob/main/public/liciouslogin.PNG?raw=true)
 
-### Code Splitting
+* Otp page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Otp page](https://github.com/kavish729/Licious-clone/blob/main/public/otpverificationlicious.PNG?raw=true)
 
-### Analyzing the Bundle Size
+* Confirmation page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Confirmation Page](https://github.com/kavish729/Licious-clone/blob/main/public/Orderconfirmlicious.PNG?raw=true)
 
-### Making a Progressive Web App
+## How to run the Project
+* Clone the repository
+* Write npm start command.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## End Notes 📑
+In this project I was tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of this construct week has given us experiences and I have learned lots of things by applying to the real website and it gave us a lot of confidence. Most of the features are added and functionality of the website is achieved.
 
-### Advanced Configuration
+## Limitations
+All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
