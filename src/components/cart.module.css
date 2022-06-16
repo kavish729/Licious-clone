@@ -1,0 +1,19 @@
+ .ccdiv{
+    display:flex;
+  justify-content: space-between;
+  margin-bottom:50px
+
+} 
+.ddddddiv{
+    overflow: scroll;
+    height:300px
+}
+.divvv{
+    background-color: black;;
+    color:white
+}
+.divvv:hover{
+    background-color: white;
+    color:black;
+    border:1px solid black
+}
